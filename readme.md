@@ -2,7 +2,7 @@
 
 This project is a system for classifying tomato leaf images to detect diseases at an early stage. The application informs the farmer about the disease and the measures to be taken.
 
-![](./app-demo.mp4)
+![image](./app-demo.gif)
 
 ## Install Dependencies
 
